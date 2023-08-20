@@ -1,0 +1,9 @@
+chainlit
+docx2txt==0.8
+faiss-cpu==1.7.4
+instructorembedding==1.0.1
+langchain==0.0.249
+pandas==2.0.3
+pypdf==3.14.0
+python-dotenv==1.0.0
+
